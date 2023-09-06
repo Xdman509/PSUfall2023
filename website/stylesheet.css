@@ -1,0 +1,15 @@
+body{
+    color: darkslategray;
+    width: 200px;
+    margin: 0 auto;
+
+}
+h1{
+    color: rgb(58, 58, 43);
+}
+h2{
+    background-color: plum;
+}
+img{
+    width: 200px
+}
